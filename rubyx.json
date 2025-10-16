@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "maintainer": "Casanova | RxJ",
+            "maintainer": "Casanova|RxJ",
             "oem": "Xiaomi",
             "device": "Rubyx",
             "filename": "crDroidAndroid-16.0-20251016-rubyx-v12.2.zip",
@@ -12,14 +12,14 @@
             "size": 1717253357,
             "version": "12.2",
             "buildtype": "Vanilla",
-            "forum": "",
-            "gapps": "",
+            "forum": "https://t.me/casanovas_cult",
+            "gapps": "No",
             "firmware": "",
             "modem": "",
             "bootloader": "",
             "recovery": "",
             "paypal": "",
-            "telegram": "@CasanovaWasTaken",
+            "telegram": "@casanova_3305",
             "dt": "",
             "common-dt": "",
             "kernel": ""
