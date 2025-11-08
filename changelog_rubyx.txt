@@ -1,51 +1,9 @@
-What’s New in crDroid 12.2
+crDroid 12.2.1 update for rubyx
 
-
-System & Core
-
-    Addressed a denial for WebView crash
-    Updated Chromium WebView to 140.0.7339.207
-    Lots of system apps dependency updates
-    Updated translations
-
-UI & Customization
-
-    Edge light: Reworked for smoother, cleaner visuals
-    Pulse visualizer: Reworked + added a fading block renderer
-    CustomSeekBarPreference: Fixed reset icon in RTL layouts
-    Notifications: Added row translucency toggle
-    Lockscreen: Added media art option
-
-SystemUI
-
-    Network Traffic: Fully revamped for better clarity and behavior
-
-Launcher3
-
-    Option to always show page indicator dots
-    Dynamic font feature fixed
-    Adjusted garbage collection to improve memory usage (not perfect yet, but better)
-    A few other small changes and polish
-
-LMOFreeform
-
-    Fixed app drawer and edit icon disappearing with low background transparency
-    Removed hardcoded strings from customization page
-    Prevented window width from exceeding available length
-    Fixed back handling on customization page
-
-Input
-
-    LatinIME: Fixed NPE in KeyboardTheme
-
-Connectivity & Security
-
-    Wi‑Fi: Added per‑connection MAC address randomization
-    Mobile data: Added a toggle to force LTE_CA
-    Wi‑Fi: Increased 5 GHz network signal tolerance
-    Keyguard: Option to disable Quick Settings on lockscreen
-
-Icons
-
-    Icon packs: Misc fixes
-
+Changelogs:
+- Synced latest upstream crDroid source (security patches & stability updates)
+- Multiple device side changes (check commits [here](https://github.com/rajdeep-3305/device_xiaomi_rubyx/commits/lineage-23.0/))
+- Added GPU boost and Scroll Optimizer from AxionOS
+- Updated overlay configs for pocket mode and smart battery behavior
+- Enabled Doze mode by default to improve standby power efficiency
+- Added double tap to trigger doze, and sensor-based Doze pulses for smarter ambient display behavior
