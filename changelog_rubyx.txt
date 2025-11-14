@@ -1,10 +1,12 @@
-crDroid 12.2.1 update for rubyx
+crDroid 12.3 update for rubyx
 
 Changelogs:
 - Synced latest upstream crDroid source (security patches & stability updates).
-- Multiple device tree side changes.
-- Added GPU boost and Scroll Optimizer from AxionOS for smoother experience.
-- Updated overlay configs for pocket mode and smart battery behavior.
-- Enabled Doze mode by default to improve standby power efficiency.
-- Added double tap to trigger doze, and sensor-based doze pulses for smarter ambient display behavior from AxionOS.
-- Wakelocks reduced, improving deep sleep.
+- Dropped GPU boost temporarily.
+- Added some experimental props for reducing battery drain.
+- Fixed CPU temperature scaling and reduce unnecessary FPS/UDFPS polling.
+- Enabled Doze by default for improved standby.
+- Enabled tilt & proximity pulses for efficient ambient notifications.
+- Optimized pocket detection to prevent accidental wakeups.
+- Reduced background sensor polling for selected high-usage apps.
+- Improved fingerprint idle handling to prevent wakelocks.
