@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "maintainer": "Casanova.",
+            "maintainer": "Casanova // RxJ",
             "oem": "xiaomi",
             "device": "rubyx",
             "filename": "crDroidAndroid-16.0-20251114-rubyx-v12.3.zip",
@@ -13,7 +13,7 @@
             "version": "12.3",
             "buildtype": "Unofficial",
             "forum": "https://t.me/casanovas_cult",
-            "gapps": "no",
+            "gapps": "",
             "firmware": "",
             "modem": "",
             "bootloader": "",
