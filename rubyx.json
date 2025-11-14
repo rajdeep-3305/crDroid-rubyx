@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "maintainer": "Casanova // RxJ",
+            "maintainer": "Casanova.",
             "oem": "xiaomi",
             "device": "rubyx",
             "filename": "crDroidAndroid-16.0-20251114-rubyx-v12.3.zip",
@@ -19,10 +19,10 @@
             "bootloader": "",
             "recovery": "",
             "paypal": "",
-            "telegram": "@casanova_3305",
-            "dt": "https://github.com/rajdeep-3305/device_xiaomi_rubyx",
+            "telegram": "https://t.me/casanova_3305",
+            "dt": "",
             "common-dt": "",
-            "kernel": "https://github.com/rajdeep-3305/kernel_xiaomi_mt6877"
+            "kernel": ""
         }
     ]
 }
