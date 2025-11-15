@@ -3,8 +3,7 @@ crDroid 12.3 update for rubyx
 Changelogs:
 - Synced latest upstream crDroid source (security patches & stability updates).
 - Dropped GPU boost temporarily.
-- Added some experimental props for reducing battery drain.
-- Fixed CPU temperature scaling and reduce unnecessary FPS/UDFPS polling.
+- Reduced unnecessary FPS/UDFPS polling.
 - Enabled Doze by default for improved standby.
 - Enabled tilt & proximity pulses for efficient ambient notifications.
 - Optimized pocket detection to prevent accidental wakeups.
