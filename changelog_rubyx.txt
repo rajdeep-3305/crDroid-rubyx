@@ -1,11 +1,13 @@
-crDroid 12.3 update for rubyx
+# crDroid 12.5 update for `rubyx`
 
-Changelogs:
-- Synced latest upstream crDroid source (security patches & stability updates).
-- Dropped GPU boost temporarily.
-- Reduced unnecessary FPS/UDFPS polling.
-- Enabled Doze by default for improved standby.
-- Enabled tilt & proximity pulses for efficient ambient notifications.
-- Optimized pocket detection to prevent accidental wakeups.
-- Reduced background sensor polling for selected high-usage apps.
-- Improved fingerprint idle handling to prevent wakelocks.
+## Changelogs:
+- Synced latest upstream crDroid source (security patches & stability updates)
+- Multiple device side changes (check commits [here](https://github.com/rajdeep-3305/device_xiaomi_rubyx/commits/lineage-23.1/))
+- USB Tethering reverted back from NCM to RNDIS
+- WPA3 Wi-Fi and Hotspot fixed
+- New LunarisDolby added in place of legacy XiaomiDolby
+- Automatic color mode and 90hz dropped to prevent color glitches and flickering issues
+- Blur removed to retain UI smoothness 
+- Powerhint tuned for lower background drain without sacrificing top app and foreground boosts
+- Flashlight strength control added
+- Other miscellaneous changes.
