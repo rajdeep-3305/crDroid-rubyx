@@ -1,7 +1,7 @@
 # crDroid-rubyx
 
 <p align="center">
-  <img src="crDroid-12.3.png" width="100%" alt="crDroid banner"/>
+  <img src="crDroid-12.5.jpg" width="100%" alt="crDroid banner"/>
 </p>
 
 - OTA Update of crDroid for rubyx [Redmi Note 12 Pro/ Plus/ Discovery 5G]
